@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc5b022ff1e4b44a88b9f11d29d9618, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  health: {fileID: 11400000, guid: aa7a978555cf0524f98c998ad141daa5, type: 2}
+  temporaryHealth: {fileID: 11400000, guid: 0f2ca919ca38de8478cb2274fd4c314c, type: 2}
+  mana: {fileID: 11400000, guid: 27b7dbc9e7f9e684aa9ba9e372c740ad, type: 2}
+  money: {fileID: 11400000, guid: 60aa140c8ceda6e40836584972c4d471, type: 2}
+  attackStrength: 7
